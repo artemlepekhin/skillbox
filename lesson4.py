@@ -10,6 +10,7 @@ def findCoin(x, y):
 
 print('Добро пожаловать!')
 print('Давай найдём её!')
+print('Где же монетка?')
 while True:
     point_x = float(input('Введите координату X: '))
     point_y = float(input('Введите координату Y: '))
